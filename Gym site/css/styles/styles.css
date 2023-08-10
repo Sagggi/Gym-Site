@@ -1,0 +1,162 @@
+
+
+h1 {
+  text-align: center;
+  color: #080808 ;
+}
+/* .intro{
+  color: #e6dcdc ;
+} */
+.paragraph{
+  margin:auto;
+  color:grey;
+  width:50%;
+  height: 100%;
+  position:relative;
+  padding-top: 30px;
+
+
+}
+
+#image1 {
+  width: 1512px;
+  height: 100px;
+  left: 0px;
+  top: 0px;
+} 
+#image2{
+
+width: 120px;
+  height: 100px;
+  left: 0px;
+  top: 0px;
+border-radius: 30px;
+}
+/* .card {
+  border-radius: 20px;
+  width: 320px;
+  padding: 0px;
+  border: 0px solid rgb(245, 242, 242);
+  margin: 0; 
+
+
+
+} */
+#image3{
+width: 30rem ;
+height: 20rem ;
+left: 0px;
+top: 15px;
+
+}
+
+/* border-radius: 60px;
+padding-right: 3rem; */
+
+/* }  */
+.intro {
+  background-image: url("/Users/uniqueheera/Desktop/Gym site/css/styles/gg.jpg");
+  height:47rem ;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  /* width:20rem; */
+}
+.shit{
+  position: relative;
+  width: 20rem;
+  height: 250rem;
+  left: 70rem;
+  top: 23rem; 
+  font-family: 'Fjalla One';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 4vw;
+  line-height: 3rem;
+  
+
+  color: #f3d8d8;
+
+
+}
+ /* .machine{ 
+
+/* font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20rem;
+line: height 58px; ; 
+}  */ */
+.para{
+  position: absolute;
+width: 795px;
+height: 307px;
+left: 540px;
+top: 52px;
+
+font-family: 'Inria Sans';
+font-style: nsormal;
+font-weight: 400;
+font-size: 42px;
+line-height: 50px;
+}
+.para-1{
+  text-align: right;
+  font-size: 1.5rem;
+  
+}
+.padd{
+  text-align: center;
+}
+
+.navbar-brand{
+  padding-left: 2rem;
+}
+.container{
+  display: flex;
+  align-items: left;
+  justify-content: left;
+}
+.container2{
+  display: flex;
+  align-items: right;
+  justify-content: right;
+  /* background-color: aliceblue; */
+}
+.container3{
+  display: flex;
+  align-items: right;
+  justify-content: right;
+
+}
+/* .p1{
+  padding-left: 20rem;
+  margin-left: 100rem;
+} */
+.background{
+  background-color: rgb(255, 255, 255);
+}
+/* .ww{
+  /* color: #852727; */
+ */
+/* .border{
+  border: 2px solid rebeccapurple;
+  padding: .5rem;
+  border-radius: 10rem;
+  border-width: 100px; */
+  
+/* } */
+/* .py-4{
+  font-family: 'Inria Sans';  */
+
+/* }
+.border{
+  background-color:white ;
+} */
+/* .mask mask-custom{
+  backdrop-filter: contrast(200%) brightness(110%) saturate(130%) sepia(0%) hue-rotate(0deg) grayscale(0%) invert(46%) blur(0px);
+  mix-blend-mode: screen;
+  background: rgba(243, 106, 188, 0.3);
+  opacity: 0.45;
+} */
+
